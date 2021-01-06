@@ -9,6 +9,6 @@ Source image:
 ![Source image](static/mem.jpg)
 
 Result:
-![Result](static/mem.txt)git commit 
+![Result](static/result.png)git commit 
 
 P.S Result insertes as image because for better viewing of resilt image resolution need to be close to original. And it is really a lot of text!
